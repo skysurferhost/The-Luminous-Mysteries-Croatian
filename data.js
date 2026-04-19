@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-cha-gisu-d-tic-ci-cana",
-      "name": "二、耶稣参加加纳婚宴",
+      "name": "2. Svadba u Kani",
       "levels": [
         {
           "tileSize": 256,
@@ -99,8 +99,8 @@ var APP_DATA = {
         {
           "yaw": -0.24373764674771792,
           "pitch": -0.2789593316817669,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣参加加纳婚宴</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">第三天，在加里肋亚加纳有婚宴，耶稣的母亲在那里；耶稣和他的门徒也被请去赴婚宴。酒缺了，耶稣的母亲向他说：「他们没有酒了。」耶稣回答说：「女人，这于我和你有什么关系？我的时刻尚未来到。」他的母亲给仆役说：「他无论吩咐你们什么，你们就作什么。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">在那里放着六口石缸，是为犹太人的取洁礼用的；每口可容纳两三桶水。耶稣向仆役说：「你们把缸灌满水罢！」他们就灌满了，直到缸口。然后，耶稣给他们说：「现在你们舀出来，送给司席！」他们便送去了。司席一尝已变成酒的水──并不知是从那里来的，舀水的仆役却知道──司席便叫了新郎来，向他说：「人人都先摆上好酒，当客人都喝够了，才摆上次等的；你却把好酒保留到现在。」这是耶稣所行的第一个神迹，是在加里肋亚加纳行的；他显示了自己的光荣，他的门徒就信从了他。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(若望福音 2:1-11)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Svadba u Kani</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Trećeg dana bijaše svadba u Kani Galilejskoj. Bila ondje Isusova majka. Na svadbu bijaše pozvan i Isus i njegovi učenici. Kad ponesta vina, Isusu će njegova majka: »Vina nemaju.« Kaže joj Isus: »Ženo, što ja imam s tobom? Još nije došao moj čas!« Nato će njegova mati poslužiteljima: <span style=\"font-style: italic;\">»Što god vam rekne, učinite!«</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">A bijaše ondje Židovima za čišćenje šest kamenih posuda od po dvije do tri mjere. Kaže Isus poslužiteljima: »Napunite posude vodom!« I napune ih do vrha. Tada im reče: »Zagrabite sada i nosite ravnatelju stola.« Oni odnesu. Kad okusi vodu što posta vinom, a nije znao odakle je – znale su sluge koje zagrabiše vodu – ravnatelj stola pozove zaručnika i kaže mu: »Svaki čovjek stavlja na stol najprije dobro vino, a kad se ponapiju, gore. Ti si čuvao dobro vino sve do sada.« Tako, u Kani Galilejskoj, učini Isus prvo znamenje i objavi svoju slavu te povjerovaše u njega njegovi učenici.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Ivan 2:1–11)</div>"
         }
       ]
     },
