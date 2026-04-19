@@ -106,7 +106,7 @@ var APP_DATA = {
     },
     {
       "id": "2-3-c-cha-gisu-rao-ging-nc-tri-v-ku-gi-sm-hi",
-      "name": "三、耶稣宣讲天国福音",
+      "name": "3. Naviještaj Božjeg Kraljevstva s Pozivom na Obraćenje",
       "levels": [
         {
           "tileSize": 256,
@@ -154,14 +154,14 @@ var APP_DATA = {
         {
           "yaw": 0.004657148241202336,
           "pitch": -0.4721606572718109,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣宣讲天国福音</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">若翰被监禁后，耶稣来到加里肋亚，宣讲天主的福音，说：「时期已满，天主的国临近了，你们悔改，信从福音罢！」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(马尔谷福音 1:14-15)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Naviještaj Božjeg Kraljevstva s Pozivom na Obraćenj</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">A pošto Ivan bijaše predan, otiđe Isus u Galileju. Propovijedao je evanđelje Božje: »Ispunilo se vrijeme, približilo se kraljevstvo Božje! Obratite se i vjerujte evanđelju!«<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Marko 1:14–15)</div>"
         }
       ]
     },
     {
       "id": "3-4-c-cha-gisu-bin-hnh-trn-ni",
-      "name": "四、耶稣大博尔山显容",
+      "name": "4. Preobraženje",
       "levels": [
         {
           "tileSize": 256,
@@ -209,14 +209,14 @@ var APP_DATA = {
         {
           "yaw": 1.71832037522912,
           "pitch": -0.1197861019002886,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣大博尔山显容</span><o:p></o:p></p>",
-          "text":  "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">六天以后，耶稣带着伯多禄，雅各伯和他的兄弟若望，单独带领他们上了一座高山，在他们面前变了容貌：他的面貌发光有如太阳，他的衣服洁白如光。忽然，梅瑟和厄里亚也显现给他们，正在同耶稣谈论。伯多禄就开口对耶稣说：「主啊，我们在这里真好！你若愿意，我就在这里张搭三个帐棚：一个为你，一个为梅瑟，一个为厄里亚。」他还在说话的时候，忽有一片光耀的云彩遮蔽了他们，并且云中有声音说：「这是我的爱子，我所喜悦的，你们要听从他！」门徒听了，就俯伏在地，非常害怕。耶稣遂前来，抚摩他们说：「起来，不要害怕！」他们举目一看，任谁都不见了，只有耶稣独自一人。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(玛窦福音 17:1-8)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Preobraženje</span><o:p></o:p></p>",
+          "text":  "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Nakon šest dana uze Isus sa sobom Petra, Jakova i Ivana, brata njegova, te ih povede na goru visoku, u osamu, i preobrazi se pred njima. I zasja mu lice kao sunce, a haljine mu postadoše bijele kao svjetlost. I gle: ukazaše im se Mojsije i Ilija te razgovarahu s njime. A Petar prihvati i reče Isusu: »Gospodine, dobro nam je ovdje biti. Ako hoćeš, načinit ću ovdje tri sjenice, tebi jednu, Mojsiju jednu i Iliji jednu.« Dok je on još govorio, gle, svijetao ih oblak zasjeni, a glas iz oblaka govoraše: <span style=\"font-style: italic;\">»Ovo je Sin moj, Ljubljeni! U njemu mi sva milina! Slušajte ga!«</span> Čuvši glas, učenici padoše licem na zemlju i silno se prestrašiše. Pristupi k njima Isus, dotakne ih i reče: »Ustanite, ne bojte se!« Podigoše oči, ali ne vidješe nikoga doli Isusa sama.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Matej 17:1–8)</div>"
         }
       ]
     },
     {
       "id": "4-5-c-cha-gisu-lp-b-tch-thnh-th",
-      "name": "五、耶稣建立圣体圣事",
+      "name": "5. Ustanovljenje Euharistije",
       "levels": [
         {
           "tileSize": 256,
@@ -258,8 +258,8 @@ var APP_DATA = {
         {
           "yaw": 0.06865999545901147,
           "pitch": -0.5026090379846924,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣建立圣体圣事</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他们正吃晚餐的时候，耶稣拿起饼来，祝福了，擘开递给门徒说：「你们拿去吃罢！这是我的身体。」然后，又拿起杯来，祝谢了，递给他们说：「你们都由其中喝罢！因为这是我的血，新约的血，为大众倾流，以赦免罪过。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(玛窦福音 26:26-28)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Ustanovljenje Euharistije</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">I dok su blagovali, uze Isus kruh, izreče blagoslov pa razlomi, dade svojim učenicima i reče: »Uzmite i jedite! Ovo je tijelo moje!« I uze čašu, zahvali i dade im govoreći: »Pijte iz nje svi! Ovo je krv moja, <span style=\"font-style: italic;\">krv Saveza</span> koja se za mnoge prolijeva na otpuštenje grijeha.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Matej 26:26–28)</div>"
         }
       ]
     }
